@@ -1,0 +1,5 @@
+{
+  "name": "BookCoverPro IA",
+  "description": "Crie capas de livros deslumbrantes com o poder da IA do Gemini. Basta inserir o título, o autor e uma descrição para gerar uma capa única.",
+  "requestFramePermissions": []
+}
